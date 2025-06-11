@@ -1,1 +1,1 @@
-# js-chapter-6-9
+JS Practice QnA of chapter 6 to 9
